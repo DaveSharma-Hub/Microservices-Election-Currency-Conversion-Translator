@@ -1,10 +1,8 @@
 // Server side implementation of UDP client-server model
     /*
 Author: Dave Sharma
-UCID: 30093981
 Filename: Voting.cpp
 Date: October 18, 2021
-Class: CPSC 441 Assignment 2
 */
 /*
 References:
